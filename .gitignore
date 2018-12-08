@@ -1,0 +1,6 @@
+.idea/*
+runtime/*
+config/database.php
+h5/node_modules/*
+public/static/uploads
+config/install.lock
